@@ -5,6 +5,9 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    title: `Pandas eating losts`
+  },
   plugins: [
     {
       resolve: `gatsby-plugin-typography`,
